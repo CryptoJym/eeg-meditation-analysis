@@ -73,7 +73,7 @@ class EEGAnalyzer:
         # Apply notch filter for powerline noise (50/60 Hz)
         notch_freq = 50  # Change to 60 for US
         quality_factor = 30
-            w0 = notch_freq / self.nyquist
+        w0 = notch_freq / self.nyquist
         b, a = signal.iirnotch(w0, quality_factor)
         filtered = signal.filtfilt(b, a, filtered)
 
