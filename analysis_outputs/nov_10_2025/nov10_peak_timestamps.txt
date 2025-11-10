@@ -1,0 +1,505 @@
+PEAK MEDITATION TIMESTAMPS - NOVEMBER 10, 2025
+============================================================
+
+
+High Meditation Score:
+----------------------------------------
+  Time: 2.75 min (165.0 sec)
+    Meditation Score: 82.7
+    State: Alert/Active
+
+  Time: 3.00 min (180.0 sec)
+    Meditation Score: 87.6
+    State: Alert/Active
+
+  Time: 3.25 min (195.0 sec)
+    Meditation Score: 84.7
+    State: Alert/Active
+
+  Time: 3.50 min (210.0 sec)
+    Meditation Score: 87.9
+    State: Alert/Active
+
+  Time: 10.50 min (630.0 sec)
+    Meditation Score: 82.6
+    State: Alert/Active
+
+  Time: 10.75 min (645.0 sec)
+    Meditation Score: 86.0
+    State: Alert/Active
+
+  Time: 11.50 min (690.0 sec)
+    Meditation Score: 85.9
+    State: Alert/Active
+
+  Time: 12.50 min (750.0 sec)
+    Meditation Score: 82.9
+    State: Alert/Active
+
+  Time: 12.75 min (765.0 sec)
+    Meditation Score: 83.9
+    State: Alert/Active
+
+  Time: 13.00 min (780.0 sec)
+    Meditation Score: 82.5
+    State: Alert/Active
+
+  Time: 13.25 min (795.0 sec)
+    Meditation Score: 83.9
+    State: Alert/Active
+
+  Time: 14.00 min (840.0 sec)
+    Meditation Score: 91.1
+    State: Alert/Active
+
+  Time: 15.00 min (900.0 sec)
+    Meditation Score: 83.7
+    State: Alert/Active
+
+  Time: 15.25 min (915.0 sec)
+    Meditation Score: 88.8
+    State: Alert/Active
+
+  Time: 15.50 min (930.0 sec)
+    Meditation Score: 86.1
+    State: Alert/Active
+
+  Time: 18.75 min (1125.0 sec)
+    Meditation Score: 84.3
+    State: Alert/Active
+
+  Time: 19.75 min (1185.0 sec)
+    Meditation Score: 83.7
+    State: Alert/Active
+
+  Time: 20.00 min (1200.0 sec)
+    Meditation Score: 83.9
+    State: Alert/Active
+
+  Time: 20.25 min (1215.0 sec)
+    Meditation Score: 87.6
+    State: Alert/Active
+
+  Time: 21.00 min (1260.0 sec)
+    Meditation Score: 84.6
+    State: Alert/Active
+
+  Time: 22.75 min (1365.0 sec)
+    Meditation Score: 83.0
+    State: Alert/Active
+
+  Time: 24.50 min (1470.0 sec)
+    Meditation Score: 83.0
+    State: Alert/Active
+
+  Time: 27.50 min (1650.0 sec)
+    Meditation Score: 84.4
+    State: Alert/Active
+
+  Time: 27.75 min (1665.0 sec)
+    Meditation Score: 92.0
+    State: Alert/Active
+
+  Time: 28.00 min (1680.0 sec)
+    Meditation Score: 93.6
+    State: Light Meditation
+
+  Time: 32.75 min (1965.0 sec)
+    Meditation Score: 82.6
+    State: Alert/Active
+
+  Time: 33.00 min (1980.0 sec)
+    Meditation Score: 88.3
+    State: Alert/Active
+
+  Time: 33.25 min (1995.0 sec)
+    Meditation Score: 93.1
+    State: Light Meditation
+
+  Time: 33.50 min (2010.0 sec)
+    Meditation Score: 92.7
+    State: Light Meditation
+
+  Time: 33.75 min (2025.0 sec)
+    Meditation Score: 84.3
+    State: Alert/Active
+
+  Time: 35.50 min (2130.0 sec)
+    Meditation Score: 86.2
+    State: Alert/Active
+
+  Time: 35.75 min (2145.0 sec)
+    Meditation Score: 93.4
+    State: Light Meditation
+
+  Time: 36.00 min (2160.0 sec)
+    Meditation Score: 85.5
+    State: Alert/Active
+
+  Time: 37.00 min (2220.0 sec)
+    Meditation Score: 93.9
+    State: Light Meditation
+
+  Time: 37.25 min (2235.0 sec)
+    Meditation Score: 93.9
+    State: Light Meditation
+
+  Time: 37.50 min (2250.0 sec)
+    Meditation Score: 94.9
+    State: Alert/Active
+
+  Time: 37.75 min (2265.0 sec)
+    Meditation Score: 86.6
+    State: Alert/Active
+
+  Time: 38.00 min (2280.0 sec)
+    Meditation Score: 94.6
+    State: Light Meditation
+
+  Time: 38.25 min (2295.0 sec)
+    Meditation Score: 83.2
+    State: Alert/Active
+
+  Time: 38.50 min (2310.0 sec)
+    Meditation Score: 85.4
+    State: Alert/Active
+
+  Time: 38.75 min (2325.0 sec)
+    Meditation Score: 83.8
+    State: Alert/Active
+
+  Time: 39.00 min (2340.0 sec)
+    Meditation Score: 84.1
+    State: Alert/Active
+
+  Time: 39.25 min (2355.0 sec)
+    Meditation Score: 93.8
+    State: Alert/Active
+
+  Time: 39.50 min (2370.0 sec)
+    Meditation Score: 89.2
+    State: Alert/Active
+
+  Time: 39.75 min (2385.0 sec)
+    Meditation Score: 88.1
+    State: Alert/Active
+
+  Time: 40.00 min (2400.0 sec)
+    Meditation Score: 91.1
+    State: Alert/Active
+
+  Time: 41.25 min (2475.0 sec)
+    Meditation Score: 89.4
+    State: Alert/Active
+
+  Time: 41.50 min (2490.0 sec)
+    Meditation Score: 92.8
+    State: Light Meditation
+
+  Time: 41.75 min (2505.0 sec)
+    Meditation Score: 84.6
+    State: Alert/Active
+
+  Time: 42.75 min (2565.0 sec)
+    Meditation Score: 91.3
+    State: Light Meditation
+
+  Time: 43.00 min (2580.0 sec)
+    Meditation Score: 90.9
+    State: Light Meditation
+
+  Time: 43.25 min (2595.0 sec)
+    Meditation Score: 87.0
+    State: Alert/Active
+
+  Time: 44.25 min (2655.0 sec)
+    Meditation Score: 84.9
+    State: Alert/Active
+
+  Time: 64.25 min (3855.0 sec)
+    Meditation Score: 92.9
+    State: Light Meditation
+
+  Time: 64.50 min (3870.0 sec)
+    Meditation Score: 88.6
+    State: Alert/Active
+
+  Time: 64.75 min (3885.0 sec)
+    Meditation Score: 84.0
+    State: Alert/Active
+
+  Time: 65.00 min (3900.0 sec)
+    Meditation Score: 84.7
+    State: Alert/Active
+
+  Time: 65.25 min (3915.0 sec)
+    Meditation Score: 92.4
+    State: Alert/Active
+
+  Time: 66.00 min (3960.0 sec)
+    Meditation Score: 86.3
+    State: Alert/Active
+
+  Time: 71.25 min (4275.0 sec)
+    Meditation Score: 90.3
+    State: Alert/Active
+
+  Time: 71.50 min (4290.0 sec)
+    Meditation Score: 88.7
+    State: Alert/Active
+
+
+High Theta Activity:
+----------------------------------------
+  Time: 2.75 min (165.0 sec)
+    Theta Power: 14.6%
+    State: Alert/Active
+
+  Time: 3.00 min (180.0 sec)
+    Theta Power: 16.7%
+    State: Alert/Active
+
+  Time: 3.25 min (195.0 sec)
+    Theta Power: 15.1%
+    State: Alert/Active
+
+  Time: 3.50 min (210.0 sec)
+    Theta Power: 16.9%
+    State: Alert/Active
+
+  Time: 10.50 min (630.0 sec)
+    Theta Power: 14.6%
+    State: Alert/Active
+
+  Time: 10.75 min (645.0 sec)
+    Theta Power: 16.7%
+    State: Alert/Active
+
+  Time: 11.50 min (690.0 sec)
+    Theta Power: 16.8%
+    State: Alert/Active
+
+  Time: 11.75 min (705.0 sec)
+    Theta Power: 15.3%
+    State: Alert/Active
+
+  Time: 12.50 min (750.0 sec)
+    Theta Power: 16.2%
+    State: Alert/Active
+
+  Time: 12.75 min (765.0 sec)
+    Theta Power: 16.2%
+    State: Alert/Active
+
+  Time: 13.00 min (780.0 sec)
+    Theta Power: 15.3%
+    State: Alert/Active
+
+  Time: 13.25 min (795.0 sec)
+    Theta Power: 15.9%
+    State: Alert/Active
+
+  Time: 13.50 min (810.0 sec)
+    Theta Power: 15.3%
+    State: Alert/Active
+
+  Time: 13.75 min (825.0 sec)
+    Theta Power: 14.8%
+    State: Alert/Active
+
+  Time: 14.00 min (840.0 sec)
+    Theta Power: 19.3%
+    State: Alert/Active
+
+  Time: 15.00 min (900.0 sec)
+    Theta Power: 15.5%
+    State: Alert/Active
+
+  Time: 15.25 min (915.0 sec)
+    Theta Power: 17.7%
+    State: Alert/Active
+
+  Time: 15.50 min (930.0 sec)
+    Theta Power: 16.6%
+    State: Alert/Active
+
+  Time: 18.75 min (1125.0 sec)
+    Theta Power: 15.0%
+    State: Alert/Active
+
+  Time: 19.75 min (1185.0 sec)
+    Theta Power: 15.4%
+    State: Alert/Active
+
+  Time: 20.00 min (1200.0 sec)
+    Theta Power: 15.6%
+    State: Alert/Active
+
+  Time: 20.25 min (1215.0 sec)
+    Theta Power: 17.7%
+    State: Alert/Active
+
+  Time: 21.00 min (1260.0 sec)
+    Theta Power: 15.9%
+    State: Alert/Active
+
+  Time: 27.50 min (1650.0 sec)
+    Theta Power: 15.2%
+    State: Alert/Active
+
+  Time: 27.75 min (1665.0 sec)
+    Theta Power: 19.1%
+    State: Alert/Active
+
+  Time: 28.00 min (1680.0 sec)
+    Theta Power: 20.6%
+    State: Light Meditation
+
+  Time: 32.75 min (1965.0 sec)
+    Theta Power: 15.0%
+    State: Alert/Active
+
+  Time: 33.00 min (1980.0 sec)
+    Theta Power: 17.4%
+    State: Alert/Active
+
+  Time: 33.25 min (1995.0 sec)
+    Theta Power: 21.6%
+    State: Light Meditation
+
+  Time: 33.50 min (2010.0 sec)
+    Theta Power: 22.5%
+    State: Light Meditation
+
+  Time: 33.75 min (2025.0 sec)
+    Theta Power: 15.0%
+    State: Alert/Active
+
+  Time: 35.50 min (2130.0 sec)
+    Theta Power: 15.1%
+    State: Alert/Active
+
+  Time: 35.75 min (2145.0 sec)
+    Theta Power: 23.8%
+    State: Light Meditation
+
+  Time: 36.00 min (2160.0 sec)
+    Theta Power: 14.7%
+    State: Alert/Active
+
+  Time: 37.00 min (2220.0 sec)
+    Theta Power: 22.1%
+    State: Light Meditation
+
+  Time: 37.25 min (2235.0 sec)
+    Theta Power: 23.5%
+    State: Light Meditation
+
+  Time: 37.50 min (2250.0 sec)
+    Theta Power: 19.9%
+    State: Alert/Active
+
+  Time: 37.75 min (2265.0 sec)
+    Theta Power: 14.8%
+    State: Alert/Active
+
+  Time: 38.00 min (2280.0 sec)
+    Theta Power: 24.3%
+    State: Light Meditation
+
+  Time: 38.50 min (2310.0 sec)
+    Theta Power: 14.4%
+    State: Alert/Active
+
+  Time: 38.75 min (2325.0 sec)
+    Theta Power: 14.8%
+    State: Alert/Active
+
+  Time: 39.00 min (2340.0 sec)
+    Theta Power: 15.4%
+    State: Alert/Active
+
+  Time: 39.25 min (2355.0 sec)
+    Theta Power: 19.8%
+    State: Alert/Active
+
+  Time: 39.50 min (2370.0 sec)
+    Theta Power: 17.7%
+    State: Alert/Active
+
+  Time: 39.75 min (2385.0 sec)
+    Theta Power: 17.4%
+    State: Alert/Active
+
+  Time: 40.00 min (2400.0 sec)
+    Theta Power: 18.5%
+    State: Alert/Active
+
+  Time: 41.25 min (2475.0 sec)
+    Theta Power: 18.3%
+    State: Alert/Active
+
+  Time: 41.50 min (2490.0 sec)
+    Theta Power: 20.4%
+    State: Light Meditation
+
+  Time: 41.75 min (2505.0 sec)
+    Theta Power: 16.0%
+    State: Alert/Active
+
+  Time: 42.75 min (2565.0 sec)
+    Theta Power: 20.3%
+    State: Light Meditation
+
+  Time: 43.00 min (2580.0 sec)
+    Theta Power: 21.4%
+    State: Light Meditation
+
+  Time: 43.25 min (2595.0 sec)
+    Theta Power: 18.0%
+    State: Alert/Active
+
+  Time: 44.00 min (2640.0 sec)
+    Theta Power: 15.0%
+    State: Alert/Active
+
+  Time: 44.25 min (2655.0 sec)
+    Theta Power: 15.6%
+    State: Alert/Active
+
+  Time: 64.25 min (3855.0 sec)
+    Theta Power: 22.1%
+    State: Light Meditation
+
+  Time: 64.50 min (3870.0 sec)
+    Theta Power: 17.7%
+    State: Alert/Active
+
+  Time: 64.75 min (3885.0 sec)
+    Theta Power: 14.9%
+    State: Alert/Active
+
+  Time: 65.25 min (3915.0 sec)
+    Theta Power: 19.2%
+    State: Alert/Active
+
+  Time: 66.00 min (3960.0 sec)
+    Theta Power: 17.2%
+    State: Alert/Active
+
+  Time: 71.25 min (4275.0 sec)
+    Theta Power: 17.6%
+    State: Alert/Active
+
+  Time: 71.50 min (4290.0 sec)
+    Theta Power: 17.5%
+    State: Alert/Active
+
+
+============================================================
+SUMMARY STATISTICS
+----------------------------------------
+Total Peak Events: 122
+First Peak: 2.75 minutes
+Last Peak: 71.50 minutes
+Average Peak Interval: 0.57 minutes
