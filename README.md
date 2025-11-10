@@ -117,6 +117,21 @@ eeg-meditation-analysis/
 ├── QUICKSTART.md           # Quick start guide
 ├── LICENSE                 # MIT License
 │
+├── analysis_outputs/       # Meditation session analysis results
+│   ├── nov_09_2025/       # November 9, 2025 session (35.9 min)
+│   │   ├── eeg_band_powers.png
+│   │   ├── spectrogram_ch1.png
+│   │   ├── eeg_summary.csv
+│   │   ├── eeg_time_resolved_powers.png
+│   │   └── eeg_peaks_summary.csv
+│   ├── nov_10_2025/       # November 10, 2025 session (39.1 min)
+│   │   └── [Analysis outputs pending]
+│   └── analysis_results.md # Summary of all sessions
+│
+├── original_recordings/    # Raw EEG CSV recordings
+│   ├── Mediation_11.9.2025_11:44_AM_8c60b5b975c05b62.csv
+│   └── Meditation_11.10.2025_d48c24fccbab626d.csv
+│
 ├── examples/               # Example scripts and notebooks
 │   └── ...
 │
@@ -126,6 +141,26 @@ eeg-meditation-analysis/
 └── output/                # Analysis results
     └── ...
 ```
+
+## 🧘 Meditation Session Results
+
+### Recent Sessions Analysis
+
+Our analysis has captured two significant meditation sessions with remarkable results:
+
+#### November 9, 2025 Session (35.9 minutes)
+- **Peak Experience**: 12-17 minute window showed optimal meditation state
+- **Extraordinary Event**: At 29 minutes, achieved exceptional Delta wave activity
+- **Key Metrics**: Strong Delta/Theta dominance indicating deep meditative states
+- [View full analysis](./analysis_outputs/nov_09_2025/)
+
+#### November 10, 2025 Session (39.1 minutes)
+- **Breakthrough Moment**: Significant shift at 4.6 minutes into session
+- **Anxiety Reduction**: 98% reduction in anxiety-related Beta wave patterns
+- **Sustained Deep State**: Maintained profound meditation depth throughout
+- [View full analysis](./analysis_outputs/nov_10_2025/)
+
+For detailed session summaries and comparative analysis, see [analysis_results.md](./analysis_outputs/analysis_results.md)
 
 ## 🔬 Technical Details
 
