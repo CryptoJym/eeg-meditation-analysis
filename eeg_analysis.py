@@ -61,8 +61,10 @@ class EEGAnalyzer:
         # Remove DC offset
         eeg_data = eeg_data - np.mean(eeg_data)
 
-        # Apply bandpass filter (0.5-50 Hz)
-        sos = signal.butter(4, [0.5, 50], btype='band',
+        # Apply bandpass filter (0.5-50 Hz or adjusted for sampling rate)
+        # Upper cutoff must be < Nyquist frequency
+        upper_cutoff = min(50, self.nyquist - 1)
+        sos = signal.butter(4, [0.5, upper_cutoff], btype='band',
                            fs=self.sampling_rate, output='sos')
         filtered = signal.sosfilt(sos, eeg_data)
 
@@ -70,12 +72,13 @@ class EEGAnalyzer:
         if remove_artifacts:
             filtered = self._remove_artifacts(filtered)
 
-        # Apply notch filter for powerline noise (50/60 Hz)
+        # Apply notch filter for powerline noise (50/60 Hz) only if below Nyquist
         notch_freq = 50  # Change to 60 for US
-        quality_factor = 30
-        w0 = notch_freq / self.nyquist
-        b, a = signal.iirnotch(w0, quality_factor)
-        filtered = signal.filtfilt(b, a, filtered)
+        if notch_freq < self.nyquist:
+            quality_factor = 30
+            w0 = notch_freq / self.nyquist
+            b, a = signal.iirnotch(w0, quality_factor)
+            filtered = signal.filtfilt(b, a, filtered)
 
         return filtered
 

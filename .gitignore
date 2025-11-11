@@ -170,6 +170,10 @@ eeg_session_*.npz
 sample_eeg_*.npz
 meditation_sessions_metadata.csv
 
+# Burst recording outputs
+bursts/
+test_labeled_dataset.json
+
 # Analysis outputs
 analysis_reports/
 figures/
