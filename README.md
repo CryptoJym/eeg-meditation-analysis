@@ -7,6 +7,7 @@ A comprehensive Python toolkit for analyzing EEG data during meditation practice
 
 ## 🧠 Features
 
+### Core Analysis
 - **Advanced Signal Processing**: Bandpass filtering, artifact removal, and noise reduction
 - **Frequency Band Analysis**: Detailed power spectral density analysis across Delta, Theta, Alpha, Beta, and Gamma bands
 - **Meditation State Classification**: Automatic detection of meditation depth based on brainwave patterns
@@ -14,6 +15,21 @@ A comprehensive Python toolkit for analyzing EEG data during meditation practice
 - **Comprehensive Visualization**: Multi-panel plots including spectrograms, power spectra, and band distributions
 - **Synthetic Data Generation**: Create realistic EEG data for testing and development
 - **Detailed Reporting**: Generate session reports with metrics and recommendations
+
+### NEW: Event-Triggered Burst Recording 🔴
+- **Intelligent Capture**: Records only emotionally significant moments (not continuous streams)
+- **Adaptive Baseline**: 30-second rolling baseline with automatic trigger detection (>15% band power change)
+- **Pre/Post Context**: Captures 60s before and 60s after emotional events
+- **Emotional Classification**: Auto-labels bursts as rest, arousal, doubt, love, focus, drowsy
+- **Manual Override**: Label bursts with ground truth emotions
+- **90% Data Reduction**: Captures the moments that matter without the noise
+
+### Neurable MW75 Neuro Integration 🎧
+- **Real-Time Streaming**: Connect to Neurable headphones via Lab Streaming Layer (LSL)
+- **12-Channel EEG**: Full access to raw EEG data at 500 Hz (downsampled to 100 Hz)
+- **Mac Compatible**: Works on macOS, Windows, and Linux
+- **Live Burst Capture**: Automatic emotional event detection during conversations
+- **Hotkey Controls**: Press 't' to manually trigger bursts during significant moments
 
 ## 🚀 Quick Start
 
@@ -61,6 +77,34 @@ python generate_sample_eeg.py
 # Analyze the generated data
 python eeg_analysis.py
 ```
+
+### Event-Triggered Burst System
+
+```bash
+# Test burst system (no hardware required)
+python test_burst_system.py
+
+# Interactive burst monitor with simulation
+python burst_monitor.py
+> sim      # Generate test data with emotional event
+> on       # Start monitoring
+> list     # View captured bursts
+```
+
+### Live Recording with Neurable
+
+```bash
+# Install LSL dependencies
+pip install pylsl keyboard
+
+# Connect to Neurable MW75 Neuro and record bursts
+python neurable_live_bursts.py
+
+# Or test without hardware
+python neurable_live_bursts.py --mock
+```
+
+**See detailed setup:** [`NEURABLE_SETUP.md`](NEURABLE_SETUP.md) | [`BURST_SYSTEM.md`](BURST_SYSTEM.md)
 
 ## 📊 Analysis Metrics
 

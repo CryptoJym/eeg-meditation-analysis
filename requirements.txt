@@ -12,6 +12,11 @@ seaborn>=0.11.0
 # Uncomment the following line if you want to use MNE features:
 # mne>=0.24.0
 
+# Neurable integration (for real-time EEG streaming)
+pylsl>=1.16.0  # Lab Streaming Layer for Neurable device streaming
+keyboard>=0.13.5  # Keyboard hotkeys for live burst triggers (optional)
+websocket-client>=1.0.0  # For Neurable API (if using WebSocket mode)
+
 # Data handling
 h5py>=3.0.0  # For HDF5 file support
 
